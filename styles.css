@@ -1,8 +1,8 @@
 header {
     border-bottom: 2px solid black;
-    color: crimson;
+    color: rgb(0, 0, 134);
 }
 
 .intro {
-    color: red;
+    color: blue
 }
